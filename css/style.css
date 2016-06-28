@@ -1,8 +1,8 @@
 body {
   font-family: arial;
-  margin: 25px 140px;
-  padding-left: 40px;
-  padding-right: 40px;
+  margin: 50px 150px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 a {
   text-decoration: none;
@@ -16,8 +16,8 @@ p,
 .header-menu {
   background-color: #535252;
   height: 40px;
-  margin-bottom: 25px;
-  margin-top: 25px;
+  margin-bottom: 40px;
+  margin-top: 40px;
   text-shadow: #000000 1px 1px;
 }
 .header-menu li {
@@ -25,7 +25,7 @@ p,
   font-size: 15px;
   line-height: 40px;
   text-align: center;
-  width: 145px;
+  width: 160px;
 }
 .header-menu li:hover {
   background-color: #323232;
@@ -43,7 +43,7 @@ p,
   border-right: 1px solid #c8c8c8;
   border-top: 1px solid #c8c8c8;
   float: left;
-  width: 25%;
+  width: 30%;
 }
 .sidebar li {
   border-bottom: 1px solid #c8c8c8;
@@ -60,10 +60,10 @@ p,
 }
 .content {
   float: right;
-  width: 70%;
+  width: 60%;
 }
 .descrip {
-  margin: 25px 20px;
+  margin: 40px 24px;
 }
 .footer-menu {
   background-color: #e1e1e1;
@@ -74,7 +74,7 @@ p,
   display: inline-block;
   line-height: 40px;
   text-align: center;
-  width: 145px;
+  width: 160px;
 }
 .footer-menu li:hover {
   text-decoration: underline;
